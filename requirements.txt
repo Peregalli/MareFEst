@@ -98,7 +98,6 @@ psutil==5.9.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pycparser==2.21
-pyFAST==4.7.0
 Pygments==2.16.1
 pyparsing==3.0.9
 python-dateutil==2.8.2
